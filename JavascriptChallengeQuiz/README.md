@@ -1,0 +1,1 @@
+This a Javascript Challenge Game. You can test your knowledge on Javascript and compete for high scores.
